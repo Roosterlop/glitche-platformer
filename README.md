@@ -1,4 +1,4 @@
-[Download](https://github.com/Roosterlop/glitche-platformer.git)
+[Download](https://github.com/Roosterlop/glitche-platformer/archive/refs/heads/main.zip)
 
 ## story
 
