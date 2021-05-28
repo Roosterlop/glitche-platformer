@@ -1,5 +1,3 @@
-
-
 ## story
 
 As the lord of your castle you decide to go for a walk 
