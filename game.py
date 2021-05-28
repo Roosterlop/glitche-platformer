@@ -205,8 +205,8 @@ class Hero(AnimatedEntity):
         self.jumping = False
 
         self.hurt_timer = 0
-        self.health = 50
-        self.max_hearts = 50
+        self.health = 3
+        self.max_hearts = 3
         self.gems = 0
         self.cards = 0
         self.score = 0
