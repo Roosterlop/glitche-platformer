@@ -839,7 +839,7 @@ while running:
                 start_level()
                 stage = PLAYING
             else:
-                hero.score += hero.health * 3000
+                hero.score += hero.health * 500
                 win_snd.play()
                 stage = WIN
 
