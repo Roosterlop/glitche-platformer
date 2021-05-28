@@ -1,0 +1,18 @@
+Characters, Tiles, and Items
+https://kenney.nl/assets/simplified-platformer-pack
+https://kenney.nl/assets/playing-cards-pack
+https://kenney.nl/assets/platformer-characters
+https://kenney.nl/assets/platformer-art-extended-enemies
+https://kenney.nl/assets/platformer-art-deluxe
+https://kenney.nl/assets/platformer-art-extended-tileset
+https://kenney.nl/assets/platformer-art-pixel-redux
+
+Fonts:
+https://www.1001fonts.com/dinomouse-font.html
+
+Sounds:
+https://opengameart.org/content/8-bit-sound-effects-library
+https://elements.envato.com/
+
+Music:
+https://taketones.com/
