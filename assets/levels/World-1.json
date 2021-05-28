@@ -83,5 +83,5 @@
     "card_locs": [[26,11],[46,12],[6,7]],
     
     "exitsingle_loc": [47,8],
-    "exitdouble_locs": [[4,10],[4,9]]
+    "exitdouble_locs": [[4,20],[4,21]]
 }
